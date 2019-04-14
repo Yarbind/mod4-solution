@@ -1,5 +1,5 @@
 var array= new Array();
-array = ["john","Sansa","Joffery","Brandon","Gunther", "Jamie","julia","Cersie", "Arya"];
+array = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 for(var i= 0; i<array.length;i++){
 	if(array[i].charAt(array[i])=="j" || array[i].charAt(array[i])=="J"  ){
 		console.log("Goodbye\t" + array[i]);
